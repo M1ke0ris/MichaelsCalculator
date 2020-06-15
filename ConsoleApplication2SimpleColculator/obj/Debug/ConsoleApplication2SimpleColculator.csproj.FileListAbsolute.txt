@@ -1,0 +1,6 @@
+C:\Users\MIsha\RiderProjects\ConsoleApplication2SimpleColculator\bin\Debug\ConsoleApplication2SimpleColculator.exe
+C:\Users\MIsha\RiderProjects\ConsoleApplication2SimpleColculator\bin\Debug\ConsoleApplication2SimpleColculator.pdb
+C:\Users\MIsha\RiderProjects\ConsoleApplication2SimpleColculator\obj\Debug\ConsoleApplication2SimpleColculator.csprojAssemblyReference.cache
+C:\Users\MIsha\RiderProjects\ConsoleApplication2SimpleColculator\obj\Debug\ConsoleApplication2SimpleColculator.csproj.CoreCompileInputs.cache
+C:\Users\MIsha\RiderProjects\ConsoleApplication2SimpleColculator\obj\Debug\ConsoleApplication2SimpleColculator.exe
+C:\Users\MIsha\RiderProjects\ConsoleApplication2SimpleColculator\obj\Debug\ConsoleApplication2SimpleColculator.pdb
